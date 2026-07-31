@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_26
+    targetCompatibility = JavaVersion.VERSION_26
+}
+
+repositories {  
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.19.0'
+}
