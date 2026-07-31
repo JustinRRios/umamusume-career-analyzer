@@ -4,7 +4,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.EnumMap;
 
 public class SupportCardLoader {
     private static final ObjectMapper objectMapper = new ObjectMapper();
