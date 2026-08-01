@@ -1,9 +1,10 @@
 package umasimulator.model.trainee.stats;
 
-public enum Attribute {
+public enum CoreStat {
     SPEED,
     STAMINA,
     POWER,
     GUTS,
-    WIT
+    WIT,
+    ENERGY
 }
