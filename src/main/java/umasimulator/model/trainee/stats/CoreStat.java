@@ -6,5 +6,7 @@ public enum CoreStat {
     POWER,
     GUTS,
     WIT,
-    ENERGY
+    ENERGY,
+    MOOD,
+    SKILL_POINTS,
 }
