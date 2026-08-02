@@ -2,9 +2,9 @@ package umasimulator;
 
 import java.util.ArrayList;
 
-import umasimulator.model.events.ActiveEvent;
+import umasimulator.model.events.EventPool;
 
 public class Simulator {
-    private ArrayList<ActiveEvent> activeEvents = new ArrayList<ActiveEvent>();
+    private ArrayList<EventPool> activeEvents = new ArrayList<EventPool>();
     
 }
