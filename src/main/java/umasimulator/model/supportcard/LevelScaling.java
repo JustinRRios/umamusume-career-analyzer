@@ -1,6 +1,6 @@
-    package umasimulator.model.supportcard;
+package umasimulator.model.supportcard;
         
-    public record LevelScaling(int level, double value) {
-        
-    }
+public record LevelScaling(int level, double value) {
+    
+}
 
